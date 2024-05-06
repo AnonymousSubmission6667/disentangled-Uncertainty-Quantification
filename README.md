@@ -1,7 +1,7 @@
 
 # disentangled-Uncertainty-Quantification
 
-The codebase accompanies the paper entitled: *"Disentangled Predictive Uncertainty framework for Time Series Data"*. It discusses about distangled Uncertainty quantification and propose an expermental methodology to prove the effectiveness of dUQ for metamodels approchs (as Random forest with dUQ, Probabilistic Neural Netorwork with MC Dropout and Probabilistic Neural Netorwork with deep ensemble)
+The codebase accompanies the paper entitled: *"Evaluation methodology for disentangled uncertainty quantification on regression models"*. It discusses about distangled Uncertainty quantification and propose an expermental methodology to prove the effectiveness of dUQ for metamodels approchs (as Random forest with dUQ, Probabilistic Neural Netorwork with MC Dropout and Probabilistic Neural Netorwork with deep ensemble)
 
 This Git show an application of two futur open source library Uqmodels + Abench components apply on two dataset. It aim to produce monitoring assets based on regression models that perform decomposed uncertainty quantification to produce 3 indicators and combine then to design confidence indicators.
 
